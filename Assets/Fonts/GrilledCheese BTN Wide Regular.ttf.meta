@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9466611e412b9da43b7fb1957d0ca0ba
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GrilledCheese BTN Wide
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 012d9b5ee5b6b464a8a43af91b0fb90b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
